@@ -1,18 +1,22 @@
-# Hello! I'm Mii, welcome to my GitHub profile! <img src="https://media.tenor.com/HdGdQ80pkz8AAAAi/mydoodlesateme-dachshund.gif" width="55px">
+# Olá! Eu sou a Mih, bem-vindo(a) ao meu perfil no GitHub! <img src="https://media.tenor.com/HdGdQ80pkz8AAAAi/mydoodlesateme-dachshund.gif" width="55px">
+Sou desenvolvedora júnior e estagiária em Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência em desenvolvimento backend, frontend e APIs, trabalhando principalmente com tecnologias como React, .NET e Python. Gosto de aprender e aplicar novas ferramentas para entregar soluções práticas e eficientes.
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 <div>
 <a href="https://github.com/mwlaofr">
 <img loading="lazy" height="180em" margin-right: 10px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwlaofr&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mwlaofr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 💻 Linguagens  
+Python, JavaScript, TypeScript, C#, SQL (PostgreSQL, MySQL), HTML, CSS
 
+### 🛠️ Ferramentas e Frameworks  
+React, React Native, Next.js, Tailwind CSS, FastAPI, .NET, Google Cloud Platform, RabbitMQ, Docker, Excel
 
-### 📱 Contact
+### 📱 Contato  
 <div> 
-  <a href="https://www.instagram.com/millenafrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/millena-franca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/millenafrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/millena-franca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
 </div>
