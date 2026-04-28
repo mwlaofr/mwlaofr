@@ -1,5 +1,5 @@
 # Olá! Eu sou a Mih, bem-vindo(a) ao meu perfil no GitHub! <img src="https://media.tenor.com/HdGdQ80pkz8AAAAi/mydoodlesateme-dachshund.gif" width="55px">
-Sou desenvolvedora júnior e estagiária em Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência em desenvolvimento backend, frontend e APIs, trabalhando principalmente com tecnologias como React, .NET e Python. Gosto de aprender e aplicar novas ferramentas para entregar soluções práticas e eficientes.
+Sou desenvolvedora Fullstack e graduada em Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência em desenvolvimento backend, frontend e APIs, trabalhando principalmente com tecnologias como React, .NET e Python. Gosto de aprender e aplicar novas ferramentas para entregar soluções práticas e eficientes.
 
 ### 📊 Estatísticas do GitHub
 <div>
